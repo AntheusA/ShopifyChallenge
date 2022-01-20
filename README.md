@@ -9,6 +9,8 @@ To get this code running:
     
     1. Copy this link into a web browser: https://onlinegdb.com/AhDk_m0tZ
     
+If the link is not working, try plan B below.
+    
 Plan B:
 
     1. Go to the website onlinegdb.com and select C++ as the language
