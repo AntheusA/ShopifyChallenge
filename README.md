@@ -25,4 +25,4 @@ Plan B:
     
 Press run!
 
-To use the code, I suggest making a location first, then adding items to it. You can create multiple locations, as well as delete and edit items in them. Finally, you can view the inventories and the items in them.
+To use the code, I suggest making a location first, then adding items to it. You can create multiple locations, as well as delete and edit items in them. Finally, you can view all of the items in each inventory and exit when finished.
