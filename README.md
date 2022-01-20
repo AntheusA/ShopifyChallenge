@@ -3,6 +3,8 @@
 Hello! I'm Antheus and my challenge is the:
 "Shopify Backend Developer Intern Challenge - Summer 2022"
 
+My additional feature is the ability to create multiple warehouses(Locations) and assign items to them
+
 To get this code running:
 
   Plan A:
